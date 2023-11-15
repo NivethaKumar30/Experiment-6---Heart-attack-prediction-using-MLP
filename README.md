@@ -16,6 +16,10 @@ Step 11:Plot the error convergence during training using plt.plot() and plt.show
 
 ## Program:
 ```
+DEVELOPED BY : NIVETHA .K
+REG NO: 212222230102
+DEPT : AI&DS
+
 import numpy as np
 import pandas as pd
 from sklearn.neural_network import MLPClassifier
@@ -59,9 +63,7 @@ plt.show()
 ```
 ## Output:
 
-![image](https://github.com/NivethaKumar30/Experiment-6---Heart-attack-prediction-using-MLP/assets/119559844/6736f8fa-0170-4241-8403-33d01fe9144b)
-
-![image](https://github.com/NivethaKumar30/Experiment-6---Heart-attack-prediction-using-MLP/assets/119559844/762e0fcc-b774-4265-822e-5f8ee2ac479a)
+![image](https://github.com/NivethaKumar30/Experiment-6---Heart-attack-prediction-using-MLP/assets/119559844/1201f360-684a-40d1-a4a0-d751e0d60a2e)
 
 
 ## Result:
